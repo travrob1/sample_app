@@ -24,18 +24,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="microposts_controller.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3183024" vertical-offset="0" max-vertical-offset="754">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -61,8 +50,6 @@
         <option value="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
         <option value="$PROJECT_DIR$/spec/requests/helpers/application_helper_spec.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/shared/_error_messages.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/helpers/users_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
@@ -96,6 +83,8 @@
         <option value="$PROJECT_DIR$/app/views/microposts/_micropost.html.erb" />
         <option value="$PROJECT_DIR$/app/views/shared/_feed_item.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/microposts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
       </list>
     </option>
   </component>
@@ -444,15 +433,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CommonCreatives/common_creatives" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistoryKey" value="mi&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;rout&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/config/routes.rb&#10;micro&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;sample_data&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/lib/tasks/sample_data.rake&#10;users&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;_mic&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/microposts/_micropost.html.erb&#10;show.html&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/users/show.html.erb&#10;&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/micropost.rb&#10;factor&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/factories.rb&#10;user.rb&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/user.rb&#10;micropost&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/micropost.rb&#10;migrate&#9;ACTION&#9;rake:db:migrate&#10;microposts_c&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;static&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/static_pages_controller.rb&#10;user&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/models/user_spec.rb&#10;fact&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/factories.rb&#10;session&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;appli&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;user_pages_spec&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/requests/user_pages_spec.rb&#10;gemf&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Gemfile&#10;custom&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss&#10;gemfi&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Gemfile&#10;edit&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/users/edit.html.erb&#10;sess&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;user_contr&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;contr&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;users_con&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;application.js&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/javascripts/application.js&#10;_header&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_header.html.erb&#10;user_spec&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/models/user_spec.rb&#10;helper&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/helpers/sessions_helper.rb&#10;controller&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;new&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/sessions/new.html.erb&#10;application.&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;production.rb&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/config/environments/production.rb&#10;applic&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;user_pages&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/requests/user_pages_spec.rb&#10;guard&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Guardfile&#10;cont&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/application_controller.rb&#10;foot&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_footer.html.erb&#10;appl&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;home&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/home.html.erb&#10;spec_he&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/spec_helper.rb&#10;contac&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/contact.html.erb&#10;help&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/help.html.erb&#10;footer&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_footer.html.erb&#10;heade&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_header.html.erb&#10;cus&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss&#10;app&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;static_pag&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/requests/static_pages_spec.rb" />
+    <property name="SearchEverywhereHistoryKey" value="static&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/static_pages_controller.rb&#10;error&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/shared/_error_messages.html.erb&#10;mi&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;rout&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/config/routes.rb&#10;micro&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;sample_data&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/lib/tasks/sample_data.rake&#10;users&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;_mic&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/microposts/_micropost.html.erb&#10;show.html&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/users/show.html.erb&#10;&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/micropost.rb&#10;factor&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/factories.rb&#10;user.rb&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/user.rb&#10;micropost&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/models/micropost.rb&#10;migrate&#9;ACTION&#9;rake:db:migrate&#10;microposts_c&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/microposts_controller.rb&#10;user&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/models/user_spec.rb&#10;fact&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/factories.rb&#10;session&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;appli&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;user_pages_spec&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/requests/user_pages_spec.rb&#10;gemf&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Gemfile&#10;custom&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss&#10;gemfi&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Gemfile&#10;edit&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/users/edit.html.erb&#10;sess&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;user_contr&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;contr&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;users_con&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/users_controller.rb&#10;application.js&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/javascripts/application.js&#10;_header&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_header.html.erb&#10;user_spec&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/models/user_spec.rb&#10;helper&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/helpers/sessions_helper.rb&#10;controller&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/sessions_controller.rb&#10;new&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/sessions/new.html.erb&#10;application.&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;production.rb&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/config/environments/production.rb&#10;applic&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;user_pages&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/requests/user_pages_spec.rb&#10;guard&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/Guardfile&#10;cont&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/controllers/application_controller.rb&#10;foot&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_footer.html.erb&#10;appl&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb&#10;home&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/home.html.erb&#10;spec_he&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/spec/spec_helper.rb&#10;contac&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/contact.html.erb&#10;help&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/static_pages/help.html.erb&#10;footer&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_footer.html.erb&#10;heade&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/_header.html.erb&#10;cus&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss&#10;app&#9;FILE&#9;file:///Users/travisrobison/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb" />
     <property name="options.lastSelected" value="Errors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -676,12 +665,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="22" width="720" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297224" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47050148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -695,8 +684,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -761,24 +750,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="473">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/capybara-2.1.0/lib/capybara/rspec/matchers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6476323" vertical-offset="1335" max-vertical-offset="2385">
           <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -793,13 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04103967" vertical-offset="0" max-vertical-offset="930">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -878,13 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="540">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12693936" vertical-offset="0" max-vertical-offset="709">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -974,27 +935,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.089955024" vertical-offset="0" max-vertical-offset="667">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_view/helpers/rendering_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3328336" vertical-offset="33" max-vertical-offset="1440">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,14 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
           <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding>
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403548593000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="718">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26712328" vertical-offset="0" max-vertical-offset="730">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,14 +1021,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10273973" vertical-offset="0" max-vertical-offset="730">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44" vertical-offset="0" max-vertical-offset="375">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3183024" vertical-offset="0" max-vertical-offset="754">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.25157234" vertical-offset="0" max-vertical-offset="555">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5654102" vertical-offset="0" max-vertical-offset="451">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1986755" vertical-offset="0" max-vertical-offset="453">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031512607" vertical-offset="0" max-vertical-offset="476">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18067227" vertical-offset="4" max-vertical-offset="480">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="476">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>
